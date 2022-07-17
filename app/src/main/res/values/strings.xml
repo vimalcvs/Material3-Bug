@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LightDarkModeDemo</string>
+    <string name="welcome_to_app_mode">Welcome To App Mode</string>
+    <string name="main_activity">Main Activity</string>
+</resources>

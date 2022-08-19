@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="AppTheme" parent="Theme.Material3.Light.NoActionBar">
-
+        <!---  Light.NoActionBar // same problem -->
+        <!---  DayNight.NoActionBar // same problem -->
+        <!--- Material3.DayNight // same problem -->
     </style>
 </resources>

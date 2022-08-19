@@ -2,7 +2,6 @@ package com.example.appmain;
 
 import android.app.ActivityOptions;
 import android.content.Intent;
-import android.nfc.Tag;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
